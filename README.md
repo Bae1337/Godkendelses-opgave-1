@@ -19,6 +19,7 @@ I denne prototype er der særligt fokus på forumfunktionen, hvor brugere kan st
 
 ## Videodemonstration:
 
+Videodemonstration.mp4
 
 ## Screensshots af appen
 
