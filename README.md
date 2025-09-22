@@ -15,7 +15,7 @@ I denne prototype er der særligt fokus på forumfunktionen, hvor brugere kan st
 
 1. Download koden
 2. npm install
-3. npm expo start
+3. npm start
 
 ## Videodemonstration:
 
