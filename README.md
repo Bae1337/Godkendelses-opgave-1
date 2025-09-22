@@ -29,3 +29,13 @@ I denne prototype er der særligt fokus på forumfunktionen, hvor brugere kan st
 
 ## Screensshots af appen
 
+<img width="490" height="728" alt="image" src="https://github.com/user-attachments/assets/7890d25f-504c-4d40-ab46-1248196bceb3" />
+
+
+<img width="490" height="728" alt="image" src="https://github.com/user-attachments/assets/aa6c9a2b-300a-41e5-9a2c-d6f8950e8e50" />
+
+
+<img width="492" height="801" alt="image" src="https://github.com/user-attachments/assets/4c45abc9-71ea-412b-8ce2-976716194a31" />
+
+
+<img width="489" height="801" alt="image" src="https://github.com/user-attachments/assets/fa5c8c49-2cd3-4eb8-86bf-42e4eeea8570" />
